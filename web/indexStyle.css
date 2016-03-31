@@ -1,0 +1,57 @@
+#head
+{
+    text-align: center;
+}
+
+
+form{
+    margin: 20px;
+    padding: 20px;
+    display: block;
+}
+
+    input[type=text]{
+    padding: 5px 5px;
+    margin: 3px 0;
+    border: none;
+    border-bottom: 3px solid;
+    border-color: #4d4dff;
+    box-sizing: border-box;
+    width: 40%;
+    font-size: 13px;
+}
+input[type=password]{
+    padding: 5px 5px;
+    margin: 3px 0;
+    border: none;
+    border-bottom: 3px solid;
+    border-color: #4d4dff;
+    width: 40%;
+    font-size: 13px;      
+}
+
+input[type=radio]{
+    
+    padding-bottom: 20px;
+    margin: 20px;
+    border: none;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+input[type=submit]
+{
+    font-size: 15px;
+    width: 40%;
+}
+
+.button {
+    background-color:#0000cc;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+}
+

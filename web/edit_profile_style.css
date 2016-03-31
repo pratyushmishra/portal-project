@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Feb, 2016, 11:11:16 PM
+    Author     : 1305366
+*/
+
+table
+{
+    border: 2px solid;
+}
+
+td:nth-child(odd)
+{
+  
+    text-align: center;
+    
+    
+}
+
+
+input
+{
+   
+    border-radius: 5px;
+    padding: 4px;
+    
+    
+}
+
+input:focus
+{
+    background-color: #aaa;
+    
+}
+
+#email
+{
+    width:280px;
+}
+
+td
+{
+    padding: 3px;
+
+}
+
+input[type=submit]
+{
+    width:150px;
+}
